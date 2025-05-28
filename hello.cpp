@@ -3,7 +3,8 @@ using namespace std;
 
 int main() {
     char choice;
-    float celsius, fahrenheit;
+    float celsius;
+    float fahrenheit;
 
     cout << "Convert (C)elsius to Fahrenheit or (F)ahrenheit to Celsius? (C/F): ";
     cin >> choice;
